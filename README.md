@@ -1,6 +1,7 @@
 # ALGO_2k19
 trie application
  PROJECT HAS DATABASE OF 75K ENGLISH WORDS WITH MEANING
+  ( database link : http://www.mso.anu.edu.au/~ralph/OPTED/  )
  
  #PROJECT FEATURES
  1. insert word with meaning
